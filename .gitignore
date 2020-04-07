@@ -111,3 +111,5 @@ dmypy.json
 # por daniel em 04/04/2020
 venv/
 /venv
+.vscode
+.gitignore
